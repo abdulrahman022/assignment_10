@@ -72,8 +72,18 @@ a {
 }
 
 @media only screen and (max-width: 600px) {
-    body {
-        zoom: 1;
-    }
+    body {zoom: 1;}
 
+    h2, h3 {font-size: 10pt;}
+
+    .sec1 {padding: 5px; }
+    
+    #bar th {font-size: 7pt; padding: 7px; width: 3%;}
+
+    p { font-size: 15pt; padding: 5px;}
+
+    #menu th {font-size: 6pt;padding: 10px;}
+    
+    li {font-size: 10pt;}
+    
 }
