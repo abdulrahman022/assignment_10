@@ -20,6 +20,7 @@ h3 {
 #bar {
     background-color: #5179a1;
     width: 100%;
+    border-collapse: collapse;
 }
 
 #bar th {
@@ -30,6 +31,7 @@ h3 {
     font-family: Arial, Helvetica, sans-serif;
     width: 5%;
     color: white;
+    border: 1px solid #120447;
 }
 #bar th:hover, 
 #menu th:hover {
